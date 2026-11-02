@@ -3,6 +3,9 @@ A towerdefense making template for Godot.
 It has a system for building automatically connecting paths, and choosing the correct route from start to finish.
 I will use this system for game ideas I have, which are closely related to the Tower Defense genre. I want to make these ideas come to life someday, and this is my first step.
 
+You can try this system right now on itch.io:
+https://xvibyt.itch.io/towerdefense
+
 
 # Controls:
 
