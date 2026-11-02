@@ -1,6 +1,11 @@
 # towerdefense
-A towerdefense making template for Godot.
+A Tower Defense-style game template.
+
+How?
 It has a system for building automatically connecting paths, and choosing the correct route from start to finish.
+Everything is scripted in GDScript inside of Godot.
+
+Why?
 I will use this system for game ideas I have, which are closely related to the Tower Defense genre. I want to make these ideas come to life someday, and this is my first step.
 
 You can try this system right now on itch.io:
