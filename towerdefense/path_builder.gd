@@ -44,7 +44,7 @@ func Next_path(surrounding_cells_pos, current_path):
 			return current_path
 
 func _input(event):
-	if event.is_action_pressed("ui_accept"):
+	if event.is_action_pressed("Start"):
 		if buildmode: buildmode = false
 		#else: buildmode = true
 		paths[Vector2i(1,1)] = {}
