@@ -13,6 +13,10 @@ I will use this system for game ideas I have, which are closely related to the T
 
 You can try this system right now on itch.io:
 https://xvibyt.itch.io/towerdefense
+Or download the Windows or Linux (no arm64) executable located at:
+-  Releases on Github
+-  also itch: https://xvibyt.itch.io/towerdefense
+The whole Godot project is in the folder called "towerdefense" here on Github.
 
 
 # Controls:
