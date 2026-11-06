@@ -3,8 +3,10 @@ A Tower Defense-style game template.
 It currently does NOT feature anything beyond placing paths and making a sprite follow it, I took my time here.
 
 How?
-It has a system for building automatically connecting paths, and choosing the correct route from start to finish.
 Everything is scripted in GDScript inside of Godot.
+It has a system for building automatically connecting paths, and choosing the correct route automatically from start to finish:
+- Placed paths connect with each other texture-wise when placed near each other.
+- Finds the correct way from start to finish on user-input if there is a way. Ignores dead-ends and handles loops.
 
 Why?
 I will use this system for game ideas I have, which are closely related to the Tower Defense genre. I want to make these ideas come to life someday, and this is my first step.
@@ -17,9 +19,9 @@ https://xvibyt.itch.io/towerdefense
 
 1. SPAWN: Press spawn/despawn to start. This makes two path starting-points appear: One at the top and one at the bottom.
 
-2. CREATE: Draw your path from one end to the other by clicking with the left mouse button. There is an invisible boundary, so make sure to click in the area between the start-path and end-path.
+2. CREATE: Draw your path from one end to the other by clicking with the left mouse button. There is an invisible boundary, so make sure to click in the general area between the start-path and end-path.
 
-3. FOLLOW: Press "s" on your keyboard to let a little Godot svg follow your path from start to finish
+3. FOLLOW: Press "s" on your keyboard to let a little Godot svg follow your path from start to finish if your built path is connects the start-path and end-path. Dead-ends are fine, but there has to be a way leading from start to finish.
 
 If any problems arise, clicking the spawn/despawn button again deletes everything (besides the Godot svg, oops). Start with step 1 after this.
 
