@@ -18,7 +18,11 @@ Or download the Windows or Linux (no arm64) executable located at:
 -  Releases on Github
 -  also itch: https://xvibyt.itch.io/towerdefense
 
-The whole Godot project is in the folder called "towerdefense" here on Github.
+The whole Godot project is in the folder called "towerdefense" here on Github:
+1. Download the whole folder
+2. Open Godot
+3. Press the "import" button at the top and select the downloaded project from step 1
+4. Ready!
 
 
 # Controls:
