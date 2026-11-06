@@ -23,6 +23,12 @@ https://xvibyt.itch.io/towerdefense
 
 3. FOLLOW: Press "s" on your keyboard to let a little Godot svg follow your path from start to finish if your built path is connects the start-path and end-path. Dead-ends are fine, but there has to be a way leading from start to finish.
 
-If any problems arise, clicking the spawn/despawn button again deletes everything (besides the Godot svg, oops). Start with step 1 after this.
+# Problems:
+
+# How to restart: Press the spawn/despawn button to make the start-path and end-path disappear (besides the Godot svg, oops) ​and press again to make them reappear. Start with step 1 after this.
+
+Pressing "s" before the start-path and end-path are connected breaks the game and you have to restart as shown above.
+
+If any other problems arise, restart as shown above.
 
 <img width="333" height="254" alt="towerdefense2" src="https://github.com/user-attachments/assets/ce6ef3e1-2780-43ff-899c-daccf31c6fd0" />
